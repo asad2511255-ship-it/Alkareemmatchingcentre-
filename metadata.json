@@ -1,0 +1,6 @@
+{
+  "name": "AL KAREEM MATCHING CENTRE",
+  "description": "Premium Pakistani clothing store with online ordering, WhatsApp handoff, customer order tracking, and owner admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "AL KAREEM MATCHING CENTRE - Owner & Store",
+  "short_name": "AL KAREEM",
+  "description": "Premium Pakistani fabrics, online orders, and store management.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#0F3826",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
